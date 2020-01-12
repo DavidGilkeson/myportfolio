@@ -48,7 +48,7 @@ section {
 .box .skill .graph {
 
   position: absolute;
-  width: 40px;
+  width: 20px;
   background: rgba(0, 0, 0, .1);
   bottom: 0;
   left: 50%;
@@ -167,7 +167,7 @@ main {
   grid-gap: 30px;
   grid-template-areas:
     "bioimage bio bio"
-    "job1 job2 job3";
+    "job1 job2 job3 job4";
   grid-template-columns: repeat(3, 1fr);
 
   .bio-image {
